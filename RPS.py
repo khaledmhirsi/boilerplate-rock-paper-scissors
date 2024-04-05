@@ -1,4 +1,3 @@
-from main import *
 
 
 def player(prev_play, opponent_history=[], counter=[0]):
