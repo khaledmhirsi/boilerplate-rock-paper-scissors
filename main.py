@@ -4,9 +4,5 @@ from RPS import player
 from unittest import main
 
 
-import tensorflow as tf
-import tensorflow_datasets as tfds
-
-
 # Uncomment line below to run unit tests automatically
 main(module='test_module', exit=False)
